@@ -40,7 +40,7 @@ Build a binary classifier using logistic regression to predict whether a tumor i
 * ROC-AUC score showed strong model performance
 
 ## Submission
-Submitted as part of the AI & ML Internship - Task 3.
+Submitted as part of the AI & ML Internship - Task 4.
 
 ---
 
